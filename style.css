@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color:aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+    text-align: center;
+}
+header b{
+    color:yellow;
+}
+header a{
+    color: lawngreen;
+}
+nav a{
+    color: aqua;
+    border-radius: 12px;
+    border: blue solid 2px;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    font-family: cursive;
+    background-color: rgb(231, 191, 191);
+}
+body p{
+    color:rgba(24, 95, 126, 0.596);
+    font-size: 25px
+}
+body h2{
+    text-align: center;
+    color:rgba(16, 126, 216, 0.623);
+    font-size: 25px;
+}
+footer p{
+    background-color: lawngreen;
+    color: purple;
+}
+footer{
+    background-color: salmon;
+}
+.contacts{
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.xlopushki{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    color:yellow;
+}
+.petarda{
+    background-color: cornflowerblue;
+    font-family: fantasy;
+    color:rgb(14, 173, 14);
+}
+.fontan{
+    background-color: hotpink;
+    font-family: monospace;
+    color: papayawhip;
+}
+.ball{
+    background-color: powderblue;
+    font-family: unset;
+    color: brown;
+}
+.aa{
+    font-size: 20px;
+    color:aquamarine;
+}
